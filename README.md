@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif">
+</p>
+
+<h1 align="center">I'm Ben 👋</h1>
+
+<h3 align="center">I'm a passionate Full Stack Ruby & Rails Developer</h3>
+
+- 🔭 I’m currently looking for full stack and back end web dev roles
+- 💻 I've recently worked on a website called expectedfpl, a tool to help Fantasy Premier League players make quick and data-driven decisions about their team http://www.expectedfpl.com/
 
 <!--
 **b-skingsley/b-skingsley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
