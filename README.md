@@ -4,10 +4,10 @@
 
 <h1 align="center">I'm Ben 👋</h1>
 
-<h3 align="center">I'm a passionate Full Stack Ruby & Rails Developer</h3>
+<h3 align="center">I'm a Full Stack Ruby & Rails and Vue Developer</h3>
 
-- 🔭 I’m currently looking for full stack and back end web dev roles
-- 💻 I've recently worked on a website called expectedfpl, a tool to help Fantasy Premier League players make quick and data-driven decisions about their team http://www.expectedfpl.com/
+- 👨‍💻 I’m currently working for EmpowerRd as a Full Stack Junior Developer
+- 💻 I previously worked on a website called expectedfpl, a tool to help Fantasy Premier League players make quick and data-driven decisions about their team http://www.expectedfpl.com/
 
 <!--
 **b-skingsley/b-skingsley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
