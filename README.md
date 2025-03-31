@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a Full Stack Ruby & Rails and Vue Developer</h3>
 
-- 👨‍💻 I’m currently working for EmpowerRd as a Full Stack Junior Developer
+- 👨‍💻 I’m currently working for EmpowerRd as Tech Lead
 - 💻 I previously worked on a website called expectedfpl, a tool to help Fantasy Premier League players make quick and data-driven decisions about their team http://www.expectedfpl.com/
 
 <!--
