@@ -4,9 +4,8 @@
 
 <h1 align="center">I'm Ben 👋</h1>
 
-<h3 align="center">I'm a Full Stack Ruby & Rails and Vue Developer</h3>
-
-- 👨‍💻 I’m currently working for EmpowerRd as Tech Lead
+<h3 align="center">I'm a Full Stack Ruby & Rails and VueJs Developer currently working for EmpowerRd as Tech Lead
+</h3>
 
 <!--
 **b-skingsley/b-skingsley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
